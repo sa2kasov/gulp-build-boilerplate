@@ -1,0 +1,20 @@
+# Editors
+.idea/
+.vscode/
+
+# Dependency directory
+node_modules/
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Log files
+logs
+*.log
+
+# Folder config file
+Desktop.ini
